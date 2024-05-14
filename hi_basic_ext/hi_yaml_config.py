@@ -22,6 +22,6 @@ class HiYamlConfig(HiConfig):
 
     def _save_config(self):
         with open(self._path, "w", encoding="utf-8") as file:
-            yaml.safe_dump(self._items, file, indent=4, allow_unicode=True)
+            yaml.safe_dump(self._items, file, allow_unicode=True)
         self._filestamp.update()
     pass
