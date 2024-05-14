@@ -1,0 +1,14 @@
+{
+    "name": "hi_basic_ext",
+    "owner": "Cosmade",
+    "contact": "deepskystar@outlook.com",
+    "desc": "The extension for hi basic.",
+    "version": "1.0.0",
+    "type": "basic",
+    "remote": "git@github.com:DeepSkyStar/hi_basic_ext.git",
+    "is_default" : false,
+    "commands":[
+    ],
+    "resources":[
+    ]
+}
