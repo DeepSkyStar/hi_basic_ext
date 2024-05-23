@@ -5,7 +5,7 @@
     "desc": "The extension for hi basic.",
     "version": "1.0.0",
     "type": "basic",
-    "remote": "https://github.com:DeepSkyStar/hi_basic_ext.git",
+    "remote": "https://github.com/DeepSkyStar/hi_basic_ext.git",
     "is_default" : false,
     "commands":[
     ],
